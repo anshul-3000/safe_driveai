@@ -2,6 +2,8 @@
 
 The backend of **SafeDrive AI** – an intelligent real-time drowsiness detection system powered by Flask, OpenCV, and Pygame. It monitors facial cues through your webcam, detects signs of drowsiness, and triggers an alarm for driver safety. This backend is designed to work seamlessly with a React + Bootstrap-based frontend.
 
+> ⚠️ **Note:** This backend is intended to be run **locally** so that the alarm (sound) feature works properly. Most cloud platforms (like Render, Railway) do not support server-side audio playback.
+
 ---
 
 ## 🚀 Features
@@ -14,6 +16,11 @@ The backend of **SafeDrive AI** – an intelligent real-time drowsiness detectio
 - 💻 Compatible with React frontend (see link below)
 
 ---
+
+# 🔗 Live Frontend Demo
+
+👉 [Live Demo](https://rad-centaur-e5c343.netlify.app/)  
+(Backend must be running locally for full functionality, including the alarm)
 
 ## ⚙️ Getting Started
 
