@@ -71,12 +71,12 @@ backend/
 Check out the professional React frontend here:
 - [👉 SafeDrive AI Frontend Repo](https://github.com/anshul-3000/safe_driveai_frontend)
 - 🧠 Tech Stack
-      - Python 3
-      - Flask
-      - OpenCV
-      - Pygame
-      - Haar Cascades
-      - Gunicorn (for production)
+         - Python 3
+         - Flask
+         - OpenCV
+         - Pygame
+         - Haar Cascades
+         - Gunicorn (for production)
 
 ### 🙌 Author
 Anshul Chaudhary
